@@ -1,4 +1,4 @@
-mg src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="3000" />
+<img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="3000" />
 <h1 align="center">Hi 👋, I'm mayouka</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
