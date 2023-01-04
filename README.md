@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studing in holbertoon school software engineer 
+- 🔭 I’m currently studing Software Engineeringin Holbertoon School  
 
-- 📫 How to reach me **melekmoalla@gmail.com**
+- 📫 How to reach me **melekmoalla2468@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
