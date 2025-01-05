@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="3000" />
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-<p> align="center">Hi there! 👋 I'm passionate about technology and always eager to learn new programming languages and coding skills. Currently, I'm studying at Holberton School, pursuing my dream of becoming a skilled software engineer. I have gained hands-on experience through project-based learning, specializing in: Python: My primary programming language. APIs: Developing and integrating various types of APIs. Flask: Building robust web applications. Databases: Proficient in MySQL. Full-Stack Development: Linking front-end and back-end seamlessly. I'm always striving to improve and grow by taking new courses and exploring cutting-edge technologies. Let's connect and collaborate! 🚀</p>
+<p align="center">Hi there! 👋 I'm passionate about technology and always eager to learn new programming languages and coding skills. Currently, I'm studying at Holberton School, pursuing my dream of becoming a skilled software engineer. I have gained hands-on experience through project-based learning, specializing in: Python: My primary programming language. APIs: Developing and integrating various types of APIs. Flask: Building robust web applications. Databases: Proficient in MySQL. Full-Stack Development: Linking front-end and back-end seamlessly. I'm always striving to improve and grow by taking new courses and exploring cutting-edge technologies. Let's connect and collaborate! 🚀</p>
 
 - 🌱 I’m currently learning **React**
 
