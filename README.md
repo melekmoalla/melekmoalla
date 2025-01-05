@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Tunisia</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<h3 align="center">Hi there! 👋 I'm passionate about technology and always eager to learn new programming languages and coding skills. Currently, I'm studying at Holberton School, pursuing my dream of becoming a skilled software engineer. I have gained hands-on experience through project-based learning, specializing in: Python: My primary programming language. APIs: Developing and integrating various types of APIs. Flask: Building robust web applications. Databases: Proficient in MySQL. Full-Stack Development: Linking front-end and back-end seamlessly. I'm always striving to improve and grow by taking new courses and exploring cutting-edge technologies. Let's connect and collaborate! 🚀</h3>
+<p> align="center">Hi there! 👋 I'm passionate about technology and always eager to learn new programming languages and coding skills. Currently, I'm studying at Holberton School, pursuing my dream of becoming a skilled software engineer. I have gained hands-on experience through project-based learning, specializing in: Python: My primary programming language. APIs: Developing and integrating various types of APIs. Flask: Building robust web applications. Databases: Proficient in MySQL. Full-Stack Development: Linking front-end and back-end seamlessly. I'm always striving to improve and grow by taking new courses and exploring cutting-edge technologies. Let's connect and collaborate! 🚀</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melekmoalla" alt="melekmoalla" /></a> </p>
 
