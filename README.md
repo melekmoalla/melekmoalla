@@ -11,9 +11,9 @@
 - 📫 How to reach me **melekmoalla2468@gmail.com**
 
 - ⚡ Fun fact **I’m passionate about learning and thrive on solving complex challenges with creative solutions!**
-- 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+  
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/melek-moalla-9127ba265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melek-moalla-9127ba265" height="30" width="40" /></a>
