@@ -5,8 +5,6 @@
 
 <p> align="center">Hi there! 👋 I'm passionate about technology and always eager to learn new programming languages and coding skills. Currently, I'm studying at Holberton School, pursuing my dream of becoming a skilled software engineer. I have gained hands-on experience through project-based learning, specializing in: Python: My primary programming language. APIs: Developing and integrating various types of APIs. Flask: Building robust web applications. Databases: Proficient in MySQL. Full-Stack Development: Linking front-end and back-end seamlessly. I'm always striving to improve and grow by taking new courses and exploring cutting-edge technologies. Let's connect and collaborate! 🚀</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melekmoalla" alt="melekmoalla" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [GitHub, Certifications: LinkedIn Profile](GitHub, Certifications: LinkedIn Profile)
@@ -14,6 +12,7 @@
 - 📫 How to reach me **melekmoalla2468@gmail.com**
 
 - ⚡ Fun fact **I’m passionate about learning and thrive on solving complex challenges with creative solutions!**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melekmoalla" alt="melekmoalla" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
